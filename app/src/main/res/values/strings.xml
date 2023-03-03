@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EnglishDictionaryApp</string>
+    <string name="audio">Audio</string>
+    <string name="example">Example:</string>
+    <string name="synonyms">Synonyms</string>
+    <string name="antonyms">Antonyms</string>
+    <string name="search">Search for an English word</string>
+    <string name="noInternet">No Internet, please turn on and try again"</string>
+    <string name="doNotExist">This word does not exist in this dictionary</string>
+    <string name="emptyFavourites">No words added</string>\
+    <string name="somethingWentWrong">Something went wrong, please click here and try again</string>
+    <string name="speechNotAvailable">Speech Not Available</string>
+    <string name="talk">Talk something</string>
+</resources>
